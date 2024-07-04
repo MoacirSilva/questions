@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maste\\Downloads\\Teste de C# da Ailos\\Questao5\\Questao5.csproj": {}
+    "C:\\Users\\maste\\Source\\Repos\\questions\\Questao5\\Questao5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maste\\Downloads\\Teste de C# da Ailos\\Questao5\\Questao5.csproj": {
+    "C:\\Users\\maste\\Source\\Repos\\questions\\Questao5\\Questao5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maste\\Downloads\\Teste de C# da Ailos\\Questao5\\Questao5.csproj",
+        "projectUniqueName": "C:\\Users\\maste\\Source\\Repos\\questions\\Questao5\\Questao5.csproj",
         "projectName": "Questao5",
-        "projectPath": "C:\\Users\\maste\\Downloads\\Teste de C# da Ailos\\Questao5\\Questao5.csproj",
+        "projectPath": "C:\\Users\\maste\\Source\\Repos\\questions\\Questao5\\Questao5.csproj",
         "packagesPath": "C:\\Users\\maste\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maste\\Downloads\\Teste de C# da Ailos\\Questao5\\obj\\",
+        "outputPath": "C:\\Users\\maste\\Source\\Repos\\questions\\Questao5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maste\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "Dapper": {
               "target": "Package",
               "version": "[2.0.35, )"

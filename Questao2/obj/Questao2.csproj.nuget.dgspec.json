@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maste\\Downloads\\Teste de C# da Ailos\\Questao2\\Questao2.csproj": {}
+    "C:\\Users\\maste\\Source\\Repos\\questions\\Questao2\\Questao2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maste\\Downloads\\Teste de C# da Ailos\\Questao2\\Questao2.csproj": {
+    "C:\\Users\\maste\\Source\\Repos\\questions\\Questao2\\Questao2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maste\\Downloads\\Teste de C# da Ailos\\Questao2\\Questao2.csproj",
+        "projectUniqueName": "C:\\Users\\maste\\Source\\Repos\\questions\\Questao2\\Questao2.csproj",
         "projectName": "Questao2",
-        "projectPath": "C:\\Users\\maste\\Downloads\\Teste de C# da Ailos\\Questao2\\Questao2.csproj",
+        "projectPath": "C:\\Users\\maste\\Source\\Repos\\questions\\Questao2\\Questao2.csproj",
         "packagesPath": "C:\\Users\\maste\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maste\\Downloads\\Teste de C# da Ailos\\Questao2\\obj\\",
+        "outputPath": "C:\\Users\\maste\\Source\\Repos\\questions\\Questao2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maste\\AppData\\Roaming\\NuGet\\NuGet.Config",
