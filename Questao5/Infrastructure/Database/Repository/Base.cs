@@ -1,18 +1,23 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Questao5.Domain.Repository;
 using Questao5.Infrastructure.Database.Context;
+using Questao5.Infrastructure.Database.Unit;
 
 namespace Questao5.Infrastructure.Database.Repository
 {
     public class Base<TEntity> : IBaseRepository<TEntity> where TEntity : class
     {
+        public IUnitOfWork UnitOfWork { get; }
         public IBaseConsultRepository<TEntity> RepositoryConsult { get; protected set; }
 
         readonly DbSet<TEntity> DbSet;
 
         readonly AppliContext _aplicationContext;
-        public Base(AppliContext aplicationContext,IBaseConsultRepository<TEntity> repositoryConsult)
+        public Base(IUnitOfWork unitOfWork, 
+            AppliContext aplicationContext,
+            IBaseConsultRepository<TEntity> repositoryConsult)
         {
+            UnitOfWork = unitOfWork;
             _aplicationContext = aplicationContext;
             DbSet = _aplicationContext.Set<TEntity>();
             RepositoryConsult = repositoryConsult;

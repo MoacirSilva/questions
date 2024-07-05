@@ -3,15 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\maste\\source\\repos\\questions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\maste\\source\\repos\\questions\\questao5\\infrastructure\\database\\repository\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\database\\repository\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\maste\\source\\repos\\questions\\questao5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\maste\\source\\repos\\questions\\questao5\\infrastructure\\database\\repository\\consult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\database\\repository\\consult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\maste\\source\\repos\\questions\\questao5\\questao5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\questao5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\maste\\source\\repos\\questions\\questao5\\application\\handlers\\movecheckaccounthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\application\\handlers\\movecheckaccounthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maste\\Downloads\\Testes-Nivelamento-Desenvolvedor-CSharp-API-Ailos-main\\Testes-Nivelamento-Desenvolvedor-CSharp-API-Ailos-main\\Desenvolvedor-Bruno-Premiersoft\\Questao5\\Infrastructure\\Database\\Repository\\BaseRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maste\\Downloads\\Testes-Nivelamento-Desenvolvedor-CSharp-API-Ailos-main\\Testes-Nivelamento-Desenvolvedor-CSharp-API-Ailos-main\\Desenvolvedor-Bruno-Premiersoft\\Questao5\\Domain\\Repository\\IBaseRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\maste\\source\\repos\\questions\\questao5\\infrastructure\\services\\controllers\\checkingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\services\\controllers\\checkingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,7 +32,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,41 +44,80 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Questao5",
+              "DocumentMoniker": "C:\\Users\\maste\\source\\repos\\questions\\Questao5\\Questao5.csproj",
+              "RelativeDocumentMoniker": "Questao5\\Questao5.csproj",
+              "ToolTip": "C:\\Users\\maste\\source\\repos\\questions\\Questao5\\Questao5.csproj",
+              "RelativeToolTip": "Questao5\\Questao5.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-05T14:34:43.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Base.cs",
-              "DocumentMoniker": "C:\\Users\\maste\\source\\repos\\questions\\Questao5\\Infrastructure\\Database\\Repository\\Base.cs",
-              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Database\\Repository\\Base.cs",
-              "ToolTip": "C:\\Users\\maste\\source\\repos\\questions\\Questao5\\Infrastructure\\Database\\Repository\\Base.cs",
-              "RelativeToolTip": "Questao5\\Infrastructure\\Database\\Repository\\Base.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAA2AAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\source\\repos\\questions\\Questao5\\Program.cs",
+              "RelativeDocumentMoniker": "Questao5\\Program.cs",
+              "ToolTip": "C:\\Users\\maste\\source\\repos\\questions\\Questao5\\Program.cs",
+              "RelativeToolTip": "Questao5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T20:34:41.203Z",
+              "WhenOpened": "2024-07-05T14:16:22.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\Downloads\\Testes-Nivelamento-Desenvolvedor-CSharp-API-Ailos-main\\Testes-Nivelamento-Desenvolvedor-CSharp-API-Ailos-main\\Desenvolvedor-Bruno-Premiersoft\\Questao5\\Domain\\Repository\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Testes-Nivelamento-Desenvolvedor-CSharp-API-Ailos-main\\Testes-Nivelamento-Desenvolvedor-CSharp-API-Ailos-main\\Desenvolvedor-Bruno-Premiersoft\\Questao5\\Domain\\Repository\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\maste\\Downloads\\Testes-Nivelamento-Desenvolvedor-CSharp-API-Ailos-main\\Testes-Nivelamento-Desenvolvedor-CSharp-API-Ailos-main\\Desenvolvedor-Bruno-Premiersoft\\Questao5\\Domain\\Repository\\IBaseRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Testes-Nivelamento-Desenvolvedor-CSharp-API-Ailos-main\\Testes-Nivelamento-Desenvolvedor-CSharp-API-Ailos-main\\Desenvolvedor-Bruno-Premiersoft\\Questao5\\Domain\\Repository\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T14:14:31.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CheckingController.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\source\\repos\\questions\\Questao5\\Infrastructure\\Services\\Controllers\\CheckingController.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Services\\Controllers\\CheckingController.cs",
+              "ToolTip": "C:\\Users\\maste\\source\\repos\\questions\\Questao5\\Infrastructure\\Services\\Controllers\\CheckingController.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Services\\Controllers\\CheckingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T13:42:06.937Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "MoveCheckAccountHandler.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\source\\repos\\questions\\Questao5\\Application\\Handlers\\MoveCheckAccountHandler.cs",
+              "RelativeDocumentMoniker": "Questao5\\Application\\Handlers\\MoveCheckAccountHandler.cs",
+              "ToolTip": "C:\\Users\\maste\\source\\repos\\questions\\Questao5\\Application\\Handlers\\MoveCheckAccountHandler.cs",
+              "RelativeToolTip": "Questao5\\Application\\Handlers\\MoveCheckAccountHandler.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAArwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T12:29:19.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "BaseRepository.cs",
               "DocumentMoniker": "C:\\Users\\maste\\Downloads\\Testes-Nivelamento-Desenvolvedor-CSharp-API-Ailos-main\\Testes-Nivelamento-Desenvolvedor-CSharp-API-Ailos-main\\Desenvolvedor-Bruno-Premiersoft\\Questao5\\Infrastructure\\Database\\Repository\\BaseRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Testes-Nivelamento-Desenvolvedor-CSharp-API-Ailos-main\\Testes-Nivelamento-Desenvolvedor-CSharp-API-Ailos-main\\Desenvolvedor-Bruno-Premiersoft\\Questao5\\Infrastructure\\Database\\Repository\\BaseRepository.cs",
               "ToolTip": "C:\\Users\\maste\\Downloads\\Testes-Nivelamento-Desenvolvedor-CSharp-API-Ailos-main\\Testes-Nivelamento-Desenvolvedor-CSharp-API-Ailos-main\\Desenvolvedor-Bruno-Premiersoft\\Questao5\\Infrastructure\\Database\\Repository\\BaseRepository.cs",
               "RelativeToolTip": "..\\..\\..\\Downloads\\Testes-Nivelamento-Desenvolvedor-CSharp-API-Ailos-main\\Testes-Nivelamento-Desenvolvedor-CSharp-API-Ailos-main\\Desenvolvedor-Bruno-Premiersoft\\Questao5\\Infrastructure\\Database\\Repository\\BaseRepository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAiwDAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T20:30:52.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Consult.cs",
-              "DocumentMoniker": "C:\\Users\\maste\\source\\repos\\questions\\Questao5\\Infrastructure\\Database\\Repository\\Consult.cs",
-              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Database\\Repository\\Consult.cs",
-              "ToolTip": "C:\\Users\\maste\\source\\repos\\questions\\Questao5\\Infrastructure\\Database\\Repository\\Consult.cs",
-              "RelativeToolTip": "Questao5\\Infrastructure\\Database\\Repository\\Consult.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAACRAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T20:11:47.851Z",
+              "WhenOpened": "2024-07-05T14:20:32.255Z",
               "EditorCaption": ""
             }
           ]

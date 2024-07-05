@@ -18,6 +18,8 @@
 
         void Remove<T>(T customer) where T : class;
 
+        IUnitOfWork UnitOfWork { get; }
+
         IBaseConsultRepository<TEntity> RepositoryConsult { get; }
     }
 }

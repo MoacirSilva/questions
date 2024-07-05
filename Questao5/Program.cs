@@ -1,4 +1,8 @@
 using MediatR;
+using Questao5.Domain.Language;
+using Questao5.Domain.Repository;
+using Questao5.Infrastructure.Cross;
+using Questao5.Infrastructure.Database.Unit;
 using Questao5.Infrastructure.Sqlite;
 using System.Reflection;
 
@@ -7,7 +11,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllers();
 
-builder.Services.AddMediatR(Assembly.GetExecutingAssembly());
+builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblies(Assembly.GetExecutingAssembly()));
 
 // sqlite
 builder.Services.AddSingleton(new DatabaseConfig { Name = builder.Configuration.GetValue<string>("DatabaseName", "Data Source=database.sqlite") });
@@ -18,6 +22,12 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
+
+//Notificacoes
+builder.Services.AddScoped<Notify>();
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+builder.Services.AddScoped<ILangSystem, LangSystem>();
+
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
