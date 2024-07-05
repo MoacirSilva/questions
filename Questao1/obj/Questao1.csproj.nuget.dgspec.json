@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maste\\Source\\Repos\\questions\\Questao1\\Questao1.csproj": {}
+    "C:\\Users\\maste\\source\\repos\\questions\\Questao1\\Questao1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maste\\Source\\Repos\\questions\\Questao1\\Questao1.csproj": {
+    "C:\\Users\\maste\\source\\repos\\questions\\Questao1\\Questao1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maste\\Source\\Repos\\questions\\Questao1\\Questao1.csproj",
+        "projectUniqueName": "C:\\Users\\maste\\source\\repos\\questions\\Questao1\\Questao1.csproj",
         "projectName": "Questao1",
-        "projectPath": "C:\\Users\\maste\\Source\\Repos\\questions\\Questao1\\Questao1.csproj",
+        "projectPath": "C:\\Users\\maste\\source\\repos\\questions\\Questao1\\Questao1.csproj",
         "packagesPath": "C:\\Users\\maste\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\maste\\Source\\Repos\\questions\\Questao1\\obj\\",
         "projectStyle": "PackageReference",

@@ -3,9 +3,9 @@ using Questao5.Infrastructure.Database.Mapping;
 
 namespace Questao5.Infrastructure.Database.Context
 {
-    public class AppContext : DbContext 
+    public class AppliContext : DbContext 
     {
-        public AppContext(DbContextOptions<AppContext> options) : base(options)
+        public AppliContext(DbContextOptions<AppliContext> options) : base(options)
         {
 
         }

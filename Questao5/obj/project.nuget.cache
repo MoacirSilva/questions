@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BvdijxrZmUc=",
+  "dgSpecHash": "htn4XsVnQLQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\maste\\Source\\Repos\\questions\\Questao5\\Questao5.csproj",
+  "projectFilePath": "C:\\Users\\maste\\source\\repos\\questions\\Questao5\\Questao5.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maste\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\maste\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
